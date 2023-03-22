@@ -39,9 +39,9 @@ const Signup = () => {
               </div>
               <p className='py-8'>
                 <span className='text-gray-600'>
-                  Already subscribed to Netflix?
+                  New to Netflix?
                 </span>{' '}
-                <Link to='/login'>Sign In</Link>
+                <Link to='/signup'>Sign Up</Link>
               </p>
             </form>
           </div>

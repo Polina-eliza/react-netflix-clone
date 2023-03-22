@@ -7,7 +7,6 @@ const Navbar = () => {
       <Link to='/'>
       <h1 className='text-red-600 text-4xl font-bold cursor-pointer'>NETFLIX</h1>
       </Link>
-       
        <div>
         <Link to='/login'>
         <button className='text-white pr-4' >Sign In</button>
