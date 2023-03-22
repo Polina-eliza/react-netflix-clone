@@ -23,7 +23,7 @@ const Login = () => {
 
 
   return (
-    <>
+    
     <div className='w-full h-screen'>
       <img
         className='hidden sm:block absolute w-full h-full object-cover'
@@ -68,14 +68,13 @@ const Login = () => {
                 <span className='text-gray-600'>
                   Already subscribed to Netflix?
                 </span>{' '}
-                <Link to='/login'>Sign In</Link>
+                <Link to='/signup'>Sign In</Link>
               </p>
             </form>
           </div>
         </div>
       </div>
     </div>
-    </>
   )
 }
 

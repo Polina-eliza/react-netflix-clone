@@ -23,7 +23,8 @@ function App() {
           <ProtectedRoute>
             <Account />
           </ProtectedRoute>
-        } />
+        } 
+        />
       </Routes>
       </AuthContextProvider>
     </>

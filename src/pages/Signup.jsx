@@ -62,7 +62,7 @@ const Signup = () => {
                 <span className='text-gray-600'>
                   New to Netflix?
                 </span>{' '}
-                <Link to='/signup'>Sign Up</Link>
+                <Link to='/login'>Sign In</Link>
               </p>
             </form>
           </div>
